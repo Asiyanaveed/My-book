@@ -65,7 +65,7 @@ const config = {
           label: 'Textbook',
         },
         {
-          href: 'https://github.com/YUMNANASIR01',
+          href: 'https://github.com/YUMNANASIR01/Human-Inspired-Robotics-Intelligence-.git',
           label: 'GitHub',
           position: 'right',
         },
