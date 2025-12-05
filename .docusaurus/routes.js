@@ -3,127 +3,127 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/',
-    component: ComponentCreator('/', '2e1'),
+    path: '/ur/',
+    component: ComponentCreator('/ur/', '3b1'),
     exact: true
   },
   {
-    path: '/',
-    component: ComponentCreator('/', 'b79'),
+    path: '/ur/',
+    component: ComponentCreator('/ur/', '357'),
     routes: [
       {
-        path: '/',
-        component: ComponentCreator('/', 'eff'),
+        path: '/ur/',
+        component: ComponentCreator('/ur/', '76e'),
         routes: [
           {
-            path: '/',
-            component: ComponentCreator('/', 'c90'),
+            path: '/ur/',
+            component: ComponentCreator('/ur/', 'c55'),
             routes: [
               {
-                path: '/advanced-ai-control/module-5-advanced-ai',
-                component: ComponentCreator('/advanced-ai-control/module-5-advanced-ai', 'd41'),
+                path: '/ur/advanced-ai-control/module-5-advanced-ai',
+                component: ComponentCreator('/ur/advanced-ai-control/module-5-advanced-ai', '107'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/appendix/glossary',
-                component: ComponentCreator('/appendix/glossary', '589'),
+                path: '/ur/appendix/glossary',
+                component: ComponentCreator('/ur/appendix/glossary', 'f48'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/appendix/references',
-                component: ComponentCreator('/appendix/references', '68e'),
+                path: '/ur/appendix/references',
+                component: ComponentCreator('/ur/appendix/references', 'e1c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/appendix/resources',
-                component: ComponentCreator('/appendix/resources', '5cf'),
+                path: '/ur/appendix/resources',
+                component: ComponentCreator('/ur/appendix/resources', 'f15'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/hardware-basics/module-3-hardware',
-                component: ComponentCreator('/hardware-basics/module-3-hardware', '315'),
+                path: '/ur/hardware-basics/module-3-hardware',
+                component: ComponentCreator('/ur/hardware-basics/module-3-hardware', 'be7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/humanoid-design/module-6-humanoid-design',
-                component: ComponentCreator('/humanoid-design/module-6-humanoid-design', '6ad'),
+                path: '/ur/humanoid-design/module-6-humanoid-design',
+                component: ComponentCreator('/ur/humanoid-design/module-6-humanoid-design', '7ed'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/intro',
-                component: ComponentCreator('/intro', '9fa'),
+                path: '/ur/intro',
+                component: ComponentCreator('/ur/intro', '467'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/introduction/intro',
-                component: ComponentCreator('/introduction/intro', '69f'),
+                path: '/ur/introduction/intro',
+                component: ComponentCreator('/ur/introduction/intro', 'e20'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/ros2-foundations/module-1-ros2',
-                component: ComponentCreator('/ros2-foundations/module-1-ros2', '7ca'),
+                path: '/ur/ros2-foundations/module-1-ros2',
+                component: ComponentCreator('/ur/ros2-foundations/module-1-ros2', '619'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/ros2-foundations/ros2-hands-on',
-                component: ComponentCreator('/ros2-foundations/ros2-hands-on', '9c7'),
+                path: '/ur/ros2-foundations/ros2-hands-on',
+                component: ComponentCreator('/ur/ros2-foundations/ros2-hands-on', '418'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/simulation/digital-twins',
-                component: ComponentCreator('/simulation/digital-twins', '2e8'),
+                path: '/ur/simulation/digital-twins',
+                component: ComponentCreator('/ur/simulation/digital-twins', 'cd0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/simulation/gazebo-unity',
-                component: ComponentCreator('/simulation/gazebo-unity', '4ba'),
+                path: '/ur/simulation/gazebo-unity',
+                component: ComponentCreator('/ur/simulation/gazebo-unity', '1f9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/simulation/module-2-simulation',
-                component: ComponentCreator('/simulation/module-2-simulation', 'ded'),
+                path: '/ur/simulation/module-2-simulation',
+                component: ComponentCreator('/ur/simulation/module-2-simulation', 'b99'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/vla-systems/module-4-vla-foundations',
-                component: ComponentCreator('/vla-systems/module-4-vla-foundations', 'db4'),
+                path: '/ur/vla-systems/module-4-vla-foundations',
+                component: ComponentCreator('/ur/vla-systems/module-4-vla-foundations', '3fb'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/vla-systems/vla-action',
-                component: ComponentCreator('/vla-systems/vla-action', '0c4'),
+                path: '/ur/vla-systems/vla-action',
+                component: ComponentCreator('/ur/vla-systems/vla-action', 'df3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/vla-systems/vla-hands-on-basic',
-                component: ComponentCreator('/vla-systems/vla-hands-on-basic', 'd27'),
+                path: '/ur/vla-systems/vla-hands-on-basic',
+                component: ComponentCreator('/ur/vla-systems/vla-hands-on-basic', '991'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/vla-systems/vla-language',
-                component: ComponentCreator('/vla-systems/vla-language', '7be'),
+                path: '/ur/vla-systems/vla-language',
+                component: ComponentCreator('/ur/vla-systems/vla-language', 'cb9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/vla-systems/vla-vision',
-                component: ComponentCreator('/vla-systems/vla-vision', 'ad6'),
+                path: '/ur/vla-systems/vla-vision',
+                component: ComponentCreator('/ur/vla-systems/vla-vision', '7f9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

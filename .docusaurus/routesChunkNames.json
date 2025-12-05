@@ -1,93 +1,93 @@
 {
-  "/-2e1": {
+  "/ur/-3b1": {
     "__comp": "c4f5d8e4",
     "__context": {
       "plugin": "a7456010"
     },
     "config": "5e9f5e1a"
   },
-  "/-b79": {
+  "/ur/-357": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/-eff": {
+  "/ur/-76e": {
     "__comp": "a7bd4aaa",
-    "__props": "22dd74f7"
+    "__props": "49abf8cd"
   },
-  "/-c90": {
+  "/ur/-c55": {
     "__comp": "a94703ab"
   },
-  "/advanced-ai-control/module-5-advanced-ai-d41": {
+  "/ur/advanced-ai-control/module-5-advanced-ai-107": {
     "__comp": "17896441",
     "content": "e0d24761"
   },
-  "/appendix/glossary-589": {
+  "/ur/appendix/glossary-f48": {
     "__comp": "17896441",
     "content": "88884f83"
   },
-  "/appendix/references-68e": {
+  "/ur/appendix/references-e1c": {
     "__comp": "17896441",
     "content": "2e82ce9c"
   },
-  "/appendix/resources-5cf": {
+  "/ur/appendix/resources-f15": {
     "__comp": "17896441",
     "content": "c30d6c39"
   },
-  "/hardware-basics/module-3-hardware-315": {
+  "/ur/hardware-basics/module-3-hardware-be7": {
     "__comp": "17896441",
     "content": "c82c7672"
   },
-  "/humanoid-design/module-6-humanoid-design-6ad": {
+  "/ur/humanoid-design/module-6-humanoid-design-7ed": {
     "__comp": "17896441",
     "content": "eebfa656"
   },
-  "/intro-9fa": {
+  "/ur/intro-467": {
     "__comp": "17896441",
     "content": "0e384e19"
   },
-  "/introduction/intro-69f": {
+  "/ur/introduction/intro-e20": {
     "__comp": "17896441",
-    "content": "8257eeb8"
+    "content": "93cb48b2"
   },
-  "/ros2-foundations/module-1-ros2-7ca": {
+  "/ur/ros2-foundations/module-1-ros2-619": {
     "__comp": "17896441",
     "content": "f468a7ad"
   },
-  "/ros2-foundations/ros2-hands-on-9c7": {
+  "/ur/ros2-foundations/ros2-hands-on-418": {
     "__comp": "17896441",
     "content": "5e4fa025"
   },
-  "/simulation/digital-twins-2e8": {
+  "/ur/simulation/digital-twins-cd0": {
     "__comp": "17896441",
     "content": "349d9f3b"
   },
-  "/simulation/gazebo-unity-4ba": {
+  "/ur/simulation/gazebo-unity-1f9": {
     "__comp": "17896441",
     "content": "7f0a4cd2"
   },
-  "/simulation/module-2-simulation-ded": {
+  "/ur/simulation/module-2-simulation-b99": {
     "__comp": "17896441",
     "content": "6772779c"
   },
-  "/vla-systems/module-4-vla-foundations-db4": {
+  "/ur/vla-systems/module-4-vla-foundations-3fb": {
     "__comp": "17896441",
     "content": "6dfd6766"
   },
-  "/vla-systems/vla-action-0c4": {
+  "/ur/vla-systems/vla-action-df3": {
     "__comp": "17896441",
     "content": "fe675a51"
   },
-  "/vla-systems/vla-hands-on-basic-d27": {
+  "/ur/vla-systems/vla-hands-on-basic-991": {
     "__comp": "17896441",
     "content": "ccc79d7d"
   },
-  "/vla-systems/vla-language-7be": {
+  "/ur/vla-systems/vla-language-cb9": {
     "__comp": "17896441",
     "content": "4f472662"
   },
-  "/vla-systems/vla-vision-ad6": {
+  "/ur/vla-systems/vla-vision-7f9": {
     "__comp": "17896441",
     "content": "4df0e478"
   }

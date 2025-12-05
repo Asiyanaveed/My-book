@@ -5,7 +5,7 @@
   "source": "@site/docs/05-vla-systems/module-4-vla-foundations.md",
   "sourceDirName": "05-vla-systems",
   "slug": "/vla-systems/module-4-vla-foundations",
-  "permalink": "/vla-systems/module-4-vla-foundations",
+  "permalink": "/ur/vla-systems/module-4-vla-foundations",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -27,10 +27,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Module 3: Hardware Foundations & Edge AI",
-    "permalink": "/hardware-basics/module-3-hardware"
+    "permalink": "/ur/hardware-basics/module-3-hardware"
   },
   "next": {
     "title": "VLA Action Systems",
-    "permalink": "/vla-systems/vla-action"
+    "permalink": "/ur/vla-systems/vla-action"
   }
 }

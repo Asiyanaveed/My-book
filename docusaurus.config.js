@@ -10,11 +10,16 @@ const config = {
   url: 'https://human-inspired-robotics-intelligence.vercel.app',
   baseUrl: '/',
   
-  organizationName: 'YUMNANASIR01',
+  organizationName: 'ASIYA-NAVEED',
   projectName: 'Human-Inspired Robotics & Intelligence Guide',
 
   onBrokenLinks: 'ignore',
-  onBrokenMarkdownLinks: 'warn',
+
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: 'warn',
+    },
+  },
 
   i18n: {
     defaultLocale: 'en',
@@ -64,7 +69,7 @@ const config = {
             label: 'Textbook',
           },
           {
-            href: 'https://github.com/YUMNANASIR01/Human-Inspired-Robotics-Intelligence',
+            href: 'https://github.com/AsiyaNaveed/Human-Inspired-Robotics-Intelligence',
             label: 'GitHub',
             position: 'right',
           },
@@ -109,12 +114,12 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/YUMNANASIR01',
+                href: 'https://github.com/ASIYANAVEED',
               },
             ],
           },
         ],
-        copyright: `© ${new Date().getFullYear()} Human-Inspired Robotics & Intelligence Guide — Built with ❤️ by Yumna Nasir.`,
+        copyright: `© ${new Date().getFullYear()} Human-Inspired Robotics & Intelligence Guide — Built with ❤️ by Asiya Naveed.`,
       },
 
       prism: {

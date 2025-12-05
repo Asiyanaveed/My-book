@@ -8,10 +8,27 @@ export default {
   "tagline": "Learning Physical AI and Robotics",
   "favicon": "img/favicon.ico",
   "url": "https://human-inspired-robotics-intelligence.vercel.app",
-  "baseUrl": "/",
-  "organizationName": "YUMNANASIR01",
+  "baseUrl": "/ur/",
+  "organizationName": "ASIYA-NAVEED",
   "projectName": "Human-Inspired Robotics & Intelligence Guide",
   "onBrokenLinks": "ignore",
+  "markdown": {
+    "hooks": {
+      "onBrokenMarkdownLinks": "warn",
+      "onBrokenMarkdownImages": "throw"
+    },
+    "format": "mdx",
+    "mermaid": false,
+    "emoji": true,
+    "mdx1Compat": {
+      "comments": true,
+      "admonitions": true,
+      "headingIds": true
+    },
+    "anchors": {
+      "maintainCase": false
+    }
+  },
   "i18n": {
     "defaultLocale": "en",
     "locales": [
@@ -31,12 +48,12 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "C:\\Users\\HAJI LAPTOP G55\\Desktop\\new\\Human-Inspired-Robotics-Intelligence-\\sidebars.js",
+          "sidebarPath": "C:\\Users\\ARL\\Desktop\\Asiya-Book\\Human-Inspired-Robotics-Intelligence\\sidebars.js",
           "routeBasePath": "/"
         },
         "blog": false,
         "theme": {
-          "customCss": "C:\\Users\\HAJI LAPTOP G55\\Desktop\\new\\Human-Inspired-Robotics-Intelligence-\\src\\css\\custom.css"
+          "customCss": "C:\\Users\\ARL\\Desktop\\Asiya-Book\\Human-Inspired-Robotics-Intelligence\\src\\css\\custom.css"
         }
       }
     ]
@@ -44,9 +61,9 @@ export default {
   "themeConfig": {
     "image": "img/ph-ai-logo.png",
     "navbar": {
-      "title": "Human-Inspired Robotics & Intelligence Guide",
+      "title": "Human-Inspired-Robotics-Intelligence",
       "logo": {
-        "alt": "Human-Inspired Robotics Logo",
+        "alt": "My Site Logo",
         "src": "img/ph-ai-logo.png"
       },
       "items": [
@@ -57,7 +74,7 @@ export default {
           "label": "Textbook"
         },
         {
-          "href": "https://github.com/YUMNANASIR01/Human-Inspired-Robotics-Intelligence",
+          "href": "https://github.com/AsiyaNaveed/Human-Inspired-Robotics-Intelligence",
           "label": "GitHub",
           "position": "right"
         },
@@ -104,12 +121,12 @@ export default {
           "items": [
             {
               "label": "GitHub",
-              "href": "https://github.com/YUMNANASIR01"
+              "href": "https://github.com/ASIYANAVEED"
             }
           ]
         }
       ],
-      "copyright": "© 2025 Human-Inspired Robotics & Intelligence Guide — Built with ❤️ by Yumna Nasir."
+      "copyright": "Copyright © 2025, Built with Human-Inspired-Robotics-Intelligence ❤️ by Yumna Nasir."
     },
     "prism": {
       "theme": {
@@ -373,22 +390,5 @@ export default {
   "stylesheets": [],
   "clientModules": [],
   "titleDelimiter": "|",
-  "noIndex": false,
-  "markdown": {
-    "format": "mdx",
-    "mermaid": false,
-    "emoji": true,
-    "mdx1Compat": {
-      "comments": true,
-      "admonitions": true,
-      "headingIds": true
-    },
-    "anchors": {
-      "maintainCase": false
-    },
-    "hooks": {
-      "onBrokenMarkdownLinks": "warn",
-      "onBrokenMarkdownImages": "throw"
-    }
-  }
+  "noIndex": false
 };
