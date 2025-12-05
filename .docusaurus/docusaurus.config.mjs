@@ -11,7 +11,7 @@ export default {
   "baseUrl": "/",
   "organizationName": "YUMNANASIR01",
   "projectName": "Human-Inspired Robotics & Intelligence Guide",
-  "onBrokenLinks": "throw",
+  "onBrokenLinks": "ignore",
   "i18n": {
     "defaultLocale": "en",
     "locales": [

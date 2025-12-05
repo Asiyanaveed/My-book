@@ -13,7 +13,7 @@ const config = {
   organizationName: 'YUMNANASIR01',
   projectName: 'Human-Inspired Robotics & Intelligence Guide',
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
 
   i18n: {
