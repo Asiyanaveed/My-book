@@ -1,11 +1,17 @@
 {
-  "framework": "docusaurus-2",
   "buildCommand": "npm run build",
   "outputDirectory": "build",
+  "framework": "docusaurus",
   "installCommand": "npm install",
-  "devCommand": "npm run start",
-  "regions": ["iad1"],
-  "env": {
-    "NODE_VERSION": "20"
+  "devCommand": "docusaurus start --port $PORT",
+  "functions": {
+    "api/**/*.js": {
+      "runtime": "nodejs20.x"
+    }
+  },
+  "build": {
+    "env": {
+      "NODE_VERSION": "20"
+    }
   }
 }
