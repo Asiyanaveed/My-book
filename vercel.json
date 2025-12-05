@@ -5,7 +5,7 @@
       "src": "docusaurus_textbook/package.json",
       "use": "@vercel/static-build",
       "config": {
-        "distDir": "docusaurus_textbook/build"
+        "distDir": "build"
       }
     }
   ]
