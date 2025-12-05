@@ -8,7 +8,7 @@ export default {
   "tagline": "Learning Physical AI and Robotics",
   "favicon": "img/favicon.ico",
   "url": "https://YUMNANASIR01.github.io",
-  "baseUrl": "/ur/",
+  "baseUrl": "/",
   "organizationName": "yumnanasir",
   "projectName": "Human-Inspired Robotics & Intelligence Guide",
   "deploymentBranch": "gh-pages",
@@ -48,7 +48,7 @@ export default {
   "themeConfig": {
     "image": "img/ph-ai-logo.png",
     "navbar": {
-      "title": "Human-Inspired-Robotics-Intelligence",
+      "title": "Human-Inspired Robotics & Intelligence Guide",
       "logo": {
         "alt": "My Site Logo",
         "src": "img/ph-ai-logo.png"
@@ -113,7 +113,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2025, Built with Human-Inspired-Robotics-Intelligence ❤️ by Yumna Nasir."
+      "copyright": "© 2025 Human-Inspired Robotics & Intelligence Guide — Built with ❤️ by Yumna Nasir."
     },
     "prism": {
       "theme": {
